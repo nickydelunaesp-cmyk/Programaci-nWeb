@@ -2,13 +2,13 @@
 
 ---
 
-- Nombre:
-- Número de Control:
+- Nombre: Kennia Nicole De luna Esparza
+- Número de Control: 22151234
 
 ---
 
 ## 📌 Descripción
-(Escribe aquí en qué consiste tu proyecto de forma breve)
+El proyecto trata sobre hacer una suscripción para obtener información
 
 ---
 
