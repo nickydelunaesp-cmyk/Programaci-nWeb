@@ -20,9 +20,9 @@ El proyecto trata sobre hacer una suscripción para obtener información
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
+Repositorio en GitHub: [[Pega aquí tu enlace]  ](https://github.com/nickydelunaesp-cmyk/Programaci-nWeb#)
 Deploy: https://nickydelunaesp-cmyk.github.io/Programaci-nWeb/
 ---
 
 ## 📝 Reflexión
-(Escribe aquí unas líneas sobre lo que aprendiste, las dificultades que tuviste y cómo las solucionaste)
+(Escribe aquí unas líneas sobre lo que aprendiste, las dificultades que tuviste y cómo las solucionaste) Aprendí que es fácil crear un cuadro de suscripción para algo y no tuve muchas dificultades ya que casi todo, ya se había visto en clase
