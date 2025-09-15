@@ -21,7 +21,7 @@ El proyecto trata sobre hacer una suscripción para obtener información
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [Pega aquí el deploy de GitHub Pages]
+Deploy: https://nickydelunaesp-cmyk.github.io/Programaci-nWeb/
 ---
 
 ## 📝 Reflexión
